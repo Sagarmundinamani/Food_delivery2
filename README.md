@@ -92,26 +92,9 @@ Orders → OrderItems
 
 Menu → OrderItems
 
-🧩 Project Structure
-Food_Delivery/
-│
-├── src/
-│   ├── com.tap.model
-│   ├── com.tap.dao
-│   ├── com.tap.daoImpl
-│   ├── com.tap.servlet
-│   └── com.tap.util
-│
-├── WebContent/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   ├── JSP files
-│   └── web.xml
-│
-└── README.md
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/Sagarmundinamani/Food_Delivery.git
 
